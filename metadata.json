@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Analyzer",
+  "description": "An advanced image analysis application powered by the Gemini API. Upload an image to receive a detailed breakdown of its contents, context, quality, and more, all presented in a structured JSON format.",
+  "requestFramePermissions": []
+}
